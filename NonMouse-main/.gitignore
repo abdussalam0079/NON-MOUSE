@@ -1,0 +1,22 @@
+# personal environment dependent
+__pycache__/
+venv/
+.vscode
+
+# pyinstaller 
+dist/
+build/
+app.spec
+dist-mac/
+dist-win/
+dist-linux/
+app-s.spec
+
+.eggs/
+*.egg-info/
+
+# pip
+site-packages
+
+test/
+README-ja.md
